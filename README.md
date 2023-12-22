@@ -1,2 +1,2 @@
 # productionBranch
-Simplilearn project branch
+Simplilearn project branch resolved
